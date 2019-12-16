@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/demo.dir/src/main.cpp.o CMakeFiles/demo.dir/src/node/node.cpp.o CMakeFiles/demo.dir/src/style/stylesheet.cpp.o  -o demo /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so -lSDL2 

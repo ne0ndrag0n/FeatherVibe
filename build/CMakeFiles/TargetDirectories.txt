@@ -1,0 +1,3 @@
+/home/ashley/Projects/feathervibe/build/CMakeFiles/rebuild_cache.dir
+/home/ashley/Projects/feathervibe/build/CMakeFiles/demo.dir
+/home/ashley/Projects/feathervibe/build/CMakeFiles/edit_cache.dir
